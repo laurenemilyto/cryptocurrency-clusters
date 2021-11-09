@@ -34,5 +34,5 @@
 
 ### Recommendation
 
-* Based on my findings, there is not a clear pattern of cryptocurrency clusters. Cryptocurrencies cannot be clustered together. 
+* Based on my findings, cryptocurrencies can be clustered together into 4 distinct groups.
 
