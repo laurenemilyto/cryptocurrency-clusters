@@ -31,8 +31,12 @@
 ### Cluster Analysis with k-Means
 
 * Created an elbow plot to identify the best number of clusters. 
+* Used Silhouette Score to determine optimum number of clusters. 
+* Used heat map to identify highly correlated variables. 
 
 ### Recommendation
 
-* Based on my findings, cryptocurrencies can be clustered together into 4 distinct groups.
+Based on my findings, cryptocurrencies can be clustered together into 4 distinct groups. Cluster results are grouped into csv files in the Clusters folder for further analysis.
+
+Given more time, I would analyze these clusters for segmentation trends, looking at the global average of total coins mined and total coin supply, data compared to class average for each column.
 
